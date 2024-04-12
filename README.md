@@ -5,15 +5,3 @@ A Surface Electromyography (sEMG) database acquired from the right arm of 58 hea
 # Introduction
 * This is the database presented in the manuscript "Surface Electromyography Dataset from Different Movements of the Hand using a portable and a non-portable device".
 * The code for the experimentation presented in the manuscript is in the folder "Code".
-
-## Cite As
-```code 
-@article{-,
-  title={Surface Electromyography Dataset from Different Movements of the Hand using a portable and a non-portable device.},
-  author={-},
-  journal={-},
-  volume={-},
-  number={-},
-  pages={-},
-  year={-}
-}
